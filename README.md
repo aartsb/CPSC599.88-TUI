@@ -1,6 +1,4 @@
-# CPSC599.88-TUI
-Repository for all my CPSC599.88 Project code
-
+# CPSC599.88-TUI-P0
 
 Project 0: Candle Tricks!
 
